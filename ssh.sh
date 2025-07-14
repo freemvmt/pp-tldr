@@ -12,8 +12,8 @@ fi
 
 # ensure we have git, clone repo, cd in etc.
 apt-get update && apt-get install -y git
-git clone git@github.com:freemvmt/kernel-whisper.git || true
-cd kernel-whisper
+git clone git@github.com:freemvmt/pp-tldr.git || true
+cd pp-tldr
 git pull
 git status
 
