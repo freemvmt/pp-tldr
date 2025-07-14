@@ -1,8 +1,8 @@
-# MLX8 Week 5
+# MLX8 Week 6
 
-_Audio is all you need!_
+Summarising your lovelife into neat little TL;DR's since 2k25.
 
-> by the Kernel Kittens
+> by the Perceptron Party
 
 
 ## Script kids
